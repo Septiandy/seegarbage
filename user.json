@@ -1,0 +1,20 @@
+[
+    {
+        "name": "septiandy",
+        "gender": "laki-laki",
+        "umur": 21,
+        "nim": "00000014415" 
+    },
+    {
+        "name": "elisa belinda",
+        "gender": "perempuan",
+        "umur": 21,
+        "nim": "00000014436" 
+    },
+    {
+        "name": "michael",
+        "gender": "laki-laki",
+        "umur": 21,
+        "nim": "00000014430" 
+    }
+]
